@@ -1,2 +1,2 @@
-# rodney-dangerfield
-rodney bio
+# Rodney-Dangerfield
+Short bio. of one of the greats.
